@@ -1,0 +1,56 @@
+body {
+	background: url('../Image/Background.jpg') no-repeat;
+	background-size: cover;
+	font-family: 'Century Gothic', sans-serif;}
+
+.box {
+	width: 1345px;
+	background: rgba(0, 0, 0, .4);
+	margin: 0 auto;
+	margin-top: 4%;
+	padding: 20px;
+	color: black; 
+	text-align: left;
+	border-radius: 15px;}
+
+.box-img {
+	width: 350px;
+	height: 350px;
+	border-radius: 50%;}
+
+.box ul{
+	list-style: none;
+	text-align: right;
+	margin-top: 20px;}
+
+.box ul li a {
+	color: #fff;
+	font-size: 25px;
+	padding: 10px 20px;
+	display: block;
+	text-decoration: none;
+	transition: all 0.5s ease-in-out;}
+
+.box ul li {
+	display: inline-block;}
+
+.box ul li :hover {
+	color: #b9b9b9;
+	transform: scale(1.3);}
+
+.box h2 {
+	text-align: right;}
+
+div {
+	width:950px;
+	color: black;
+	background: white;
+	margin: 0 auto;
+	margin-top: 4%;
+	border-radius: 15px;}
+
+div p{
+	padding: 10px 20px}
+
+div{
+	display: inline-block;}
